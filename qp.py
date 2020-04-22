@@ -54,3 +54,4 @@ gsheet = get_google_sheet(SPREADSHEET_ID, RANGE_NAME)
 df = gsheet2df(gsheet)
 print('Dataframe size = ', df.shape)
 print(df.head())
+# hello friends lets have some fun

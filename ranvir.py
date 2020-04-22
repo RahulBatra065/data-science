@@ -1,0 +1,6 @@
+iOOOOOOU
+:wq
+
+
+YOU SUCK
+
